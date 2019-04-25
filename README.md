@@ -1,4 +1,4 @@
-# Testing_Assignment_10
+# Testing Assignment 10
 ## What is CI/CD pipeline:
 Continuous integration is a coding philosophy and set of practices that drive development teams to implement small changes and check in code to version control repositories frequently. Because most modern applications require developing code in different platforms and tools, the team needs a mechanism to integrate and validate its changes.
 
@@ -8,5 +8,5 @@ Continuous delivery picks up where continuous integration ends. CD automates the
 
 A Continuous Integration Pipeline is a powerful instrument that consists of a set of tools designed to host, monitor, compile and test code, or code changes. I will use Jenkins for Continuous Integration Server.
 
-I have descrive details Assignment10.docx file
+Details ------> Assignment10.docx file
 
