@@ -1,4 +1,4 @@
-# Testing Assignment 10
+# Testing-Assignment-10
 ## What is CI/CD pipeline:
 Continuous integration is a coding philosophy and set of practices that drive development teams to implement small changes and check in code to version control repositories frequently. Because most modern applications require developing code in different platforms and tools, the team needs a mechanism to integrate and validate its changes.
 
